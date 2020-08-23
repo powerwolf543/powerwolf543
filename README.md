@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hello, I'm Nixon 👋
+
+- 📱 I'm an **iOS** developer
+- 📙 Focusing on **Swift** development
+- 🔬 Explorer of software engineering
+- ❤️ Fan of **Apple**
 
 <!--
 **powerwolf543/powerwolf543** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
