@@ -1,3 +1,5 @@
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=powerwolf543&hide=javascript,html&layout=compact" />
+
 ### Hello, I'm Nixon 👋
 
 - 📱 I'm an **iOS** developer
