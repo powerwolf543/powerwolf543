@@ -1,4 +1,4 @@
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=powerwolf543&hide=javascript,html&layout=compact" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=powerwolf543&hide=javascript,html&layout=compact" /><BR />
 
 ### Hello, I'm Nixon 👋
 
